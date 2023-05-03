@@ -1,4 +1,4 @@
-Read the Docs Sphinx Theme
+Qualitime
 ==========================
 
 This Sphinx_ theme was designed to provide a great reader experience for
