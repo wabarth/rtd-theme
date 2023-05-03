@@ -8,10 +8,10 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 .. _Sphinx: http://www.sphinx-doc.org
 .. _Read the Docs: http://www.readthedocs.org
 
-Using this theme
+Using this theme - Configuração
 ----------------
 
-:doc:`installing`
+:doc:`instalando`
     How to install this theme on your Sphinx project.
 
 :doc:`configuring`
@@ -49,12 +49,12 @@ Development
 .. Hidden TOCs
 
 .. toctree::
-   :caption: Theme Documentation
+   :caption: Configuração
    :maxdepth: 2
    :hidden:
 
    instalando
-   configurando
+   configuring
    development
    contributing
 
