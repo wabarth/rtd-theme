@@ -53,8 +53,8 @@ Development
    :maxdepth: 2
    :hidden:
 
-   installing
-   configuring
+   instalando
+   configurando
    development
    contributing
 
